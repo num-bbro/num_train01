@@ -1,0 +1,13 @@
+[workspace]
+members = [
+"num_train01_one",
+"num_train01_two",
+"num_train01_lib",
+]
+
+[package]
+name = "num_train01"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
