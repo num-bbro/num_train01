@@ -7,5 +7,5 @@ description = "num train one"
 license = "MIT OR Apache-2.0"
 
 [dependencies]
-num_train01_lib = { path = "../num_train01_lib" }
+num_train01_lib = { path = "../num_train01_lib", version = "0.1.2" }
 
