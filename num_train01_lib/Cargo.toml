@@ -1,6 +1,10 @@
 [package]
 name = "num_train01_lib"
-version = "0.1.1"
+version = "0.1.2"
 edition = "2024"
+authors = ["num-bbro <num@bbro.jp>"]
+description = "num train one"
+license = "MIT OR Apache-2.0"
 
 [dependencies]
+
